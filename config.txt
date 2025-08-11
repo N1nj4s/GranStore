@@ -1,0 +1,7 @@
+git config --global user.name N1nj4s
+git config --global user.email leonardozola04@gmail.com
+
+dotnet new mvc -o GranStore
+
+cd GranStore
+dotnet warch run
